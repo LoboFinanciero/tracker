@@ -1,6 +1,3 @@
-Okay, here's a Streamlit app interface based on your requirements. This code focuses purely on the UI elements and layout, with no backend functionality.
-
-Save this code as app.py and run it from your terminal using streamlit run app.py.
 
 import streamlit as st
 import pandas as pd
